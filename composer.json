@@ -1,5 +1,5 @@
 {
-    "name": "liuggio/rackspace-cloud-files-bundle",
+    "name": "gigo6000/rackspace-cloud-files-bundle",
     "type": "symfony-bundle",
     "description": "Provides rackspace cloud files support for #Symfony2 Bundles",
     "keywords": ["cloud", "rackspace", "assetic"],
